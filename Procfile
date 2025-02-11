@@ -1,1 +1,2 @@
-web: streamlit run spotify.py
+web: sh setup.sh && streamlit run home.py
+
